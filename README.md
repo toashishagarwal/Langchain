@@ -14,5 +14,12 @@ Langchain Tutorials
 # Run the python code
 python3 chat.py
 
+# About Chat App
+This Python-based app uses OpenAI APIs to connect to the configured Snowflake instance. It uses chaining to convert - <br>
+English Text -> Snowflake SQL -> Execute SQL -> Return results <br>
+Currently the app is console-driven. However it can be easily extended to have a UI built in Streamlit by adding relevant dependencies to the requirements.txt file
+
+
+
 
 
